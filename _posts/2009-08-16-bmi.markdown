@@ -1,0 +1,65 @@
+---
+layout: post
+published: true
+title: Räkna ut ditt BMI
+logo: calculator.jpg
+excerpt: BMI är en förkortning för Body Mass Index. Räkna ut ditt här.
+categories:
+- Kalkylator
+tags:
+- BMI
+- Kalkylator
+comments: []
+---
+<p class="lead">
+BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett mått som anger relationen mellan vikt och längd enligt ekvation som visas nedan. BMI används som ett mått på övervikt men ska endast ses som ett riktmärke och inget annat. Elitidrottare och kroppsbyggare kan i stort sett bortse från BMI då det överhuvudtaget inte tar hänsyn till den extra vikt som muskler innebär.
+</p>
+
+![BMI Formel]({{ site.url}}/images/posts/bmi/formula.gif)
+
+#### WHO har definierat följande gränsvärden för BMI
+*  Undervikt - mindre än 18,5
+*  Normalvikt - 18,50–24,99
+*  Övervikt - 25,00–29,99
+*  Fetma -  Mer än 30,00
+
+<div id="contact-form">
+<form>
+	<fieldset>
+	  <div class="half">
+		  <label for="weight">Kroppsvikt (kg)</label>
+		  <input id="weight" name="weight" type="text" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/> 
+	  </div>
+	  <div class="half pull-right">
+		  <label for="length">Längd (cm)</label>
+		  <input id="length" name="length" type="text" onfocus="if (this.value == 'Ange längd...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange längd...'; }" value="Ange längd..." size="29"/>
+	  </div>
+ 	  <div class="half">
+ 		  <label for="trigger"><span class="required">* Använd punkt för att ange decimaler.</span></label>
+ 		  <input id="trigger" onclick="calculate()" name="trigger" type="button" value="Räkna ut" />
+ 	  </div>
+ 	  <div class="half pull-right">
+		  <label for="result">Resultat</label>
+		  <input id="BMI" name="BMI" readonly="readonly" type="text" size="35"/>
+	  </div>
+	  </fieldset>
+	</form>
+</div>
+
+
+<script type="text/javascript">
+  function calculate() { 	
+	  var weight = document.getElementById("weight").value; 	
+	  var length = document.getElementById("length").value;
+	  
+	  	var result = weight / (length * length) * 10000; 	
+	  	if (isNaN(result)) { 		
+			document.getElementById("BMI").value = 'Fel'; 	
+	  	} else { 
+		   	document.getElementById("BMI").value = Math.round(result*10)/10; 	
+	  	}
+	}
+</script>
+
+
+

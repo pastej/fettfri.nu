@@ -1,0 +1,5 @@
+name: Fettfri.nu
+markdown: redcarpet
+pygments: true
+baseurl: /fettfri.nu
+permalink: /:categories/:title/
