@@ -4,7 +4,7 @@ published: true
 title: "Öka i muskelmassa - Del 1"
 excerpt: En bra kost är A och O för att bygga muskler.
 logo: oka-i-muskelmassa-1.jpg
-title2: Öka i muskelmassa | fettfri.nu
+title2: Öka i muskelmassa, Del 1
 keywords: muskler,muskelbyggning,kost,protein,muskelmassa,öka,muskelökning,styrketräning
 description: Vad behöver du tänka på om du vill öka din muskelmassa? I denna guide får du svaren.
 categories:
@@ -73,4 +73,4 @@ Utvärdera dina framsteg under resans gång. Finner du att du står stilla eller
 
 Lycka till med ökningarna!
 
-I <a href="{{ site.baseurl }}{% post_url 2009-09-08-oka-i-muskelmassa-del-2 %}">nästa del</a> kommer vi att ta upp själva träningen och vikten av återhämtning.
+I <a href="{{ site.baseurl }}{% post_url 2012-01-02-oka-i-muskelmassa-del-2 %}">Öka i muskelmassa, Del 2</a> kommer vi att ta upp själva träningen och vikten av återhämtning.

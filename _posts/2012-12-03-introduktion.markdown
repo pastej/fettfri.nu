@@ -1,12 +1,12 @@
 ---
 layout: post
 published: true
-title: Intro till viktminskning
+title: Viktminskning
 logo: viktminskning-intro.jpg
 excerpt: Lär dig grunderna för hur du sätter igång din fettförbränning.
-title2: Introduktion till viktminskning | fettfri.nu
+title2: Introduktion till viktminskning
 keywords: fettförbränning,viktminskning,energibehov
-description: Introduktion till viktminskning.
+description: Kroppen förbränner energi för att klara av de uppgifter den har. Lär dig om hur du kan få fart på din fettförbränning.
 categories:
 - Viktminskning
 tags:
@@ -16,7 +16,7 @@ tags:
 comments: []
 ---
 ## Kroppens energiförbrukning
-Kroppen förbränner energi för att klara av de uppgifter den har. Även om du skulle ligga helt stilla en dag kommer kroppen fortfarande att förbruka energi, det kallas basalt <a title="Räkna ut ditt energibehov" href="{% post_url 2009-08-16-energibehov %}">energibehov</a>. Se det som en TV som står i standby-läge, den kommer att förbruka ström men inte alls lika mycket som den skulle göra om den skulle vara påslagen. Det samma gäller för dig, är du igång och rör dig under en dag kommer du att förbruka mer energi än i standby-läge.
+Kroppen förbränner energi för att klara av de uppgifter den har. Även om du skulle ligga helt stilla en dag kommer kroppen fortfarande att förbruka energi, det kallas basalt energibehov (<a href="{{ site.baseurl }}{% post_url 2013-01-02-energibehov %}">Räkna ut ditt energibehov</a>). Se det som en TV som står i standby-läge, den kommer att förbruka ström men inte alls lika mycket som den skulle göra om den skulle vara påslagen. Det samma gäller för dig, är du igång och rör dig under en dag kommer du att förbruka mer energi än i standby-läge.
 
 Energi får vi alla i oss varje dag i form av mat och dryck, och det är viktigt för att kroppen ska fungera. För att kunna åstadkomma en viktminskning är det dock av yttersta vikt att balansen mellan mängden energi du får in i kroppen och den du förbrukar är den rätta. Man brukar tala om att ligga på ett "kaloriunderskott" eller "kaloriminus" i dessa sammanhang och det innebär att energin in i kroppen är mindre än mängden energi som förbrukas. Eftersom det inte finns något överskott av energi kommer kroppen inte ha något att lagra i kroppen utan den blir i stället tvungen att ta från de reserver som finns, bland annat av fettet.
 
@@ -50,5 +50,7 @@ En sammanfattning av det som står ovan ger dig en strategi för att lyckas.
 	<li>Ät en bra och varierad kost med tillräcklig mängd protein och fett.</li>
 	<li>Träna för bättre kondition och styrka.</li>
 </ol>
+
+Läs mer om viktminskning i <a href="{{ site.baseurl }}{% post_url 2011-12-02-tips-for-viktminskning %}">Tips för viktminskning</a>.
 
 <strong>Lycka till!</strong>

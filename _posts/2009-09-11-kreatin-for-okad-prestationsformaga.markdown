@@ -4,7 +4,7 @@ published: true
 title: Kreatin
 excerpt: Kreatin används för att öka din prestationsförmåga.
 logo: shaker.jpg
-title2: Bli starkare med kreatin | fettfri.nu
+title2: Bli starkare med kreatin
 keywords: kreatin,kosttillskott,muskelökning,styrketräning,träning
 description: Kreatin används för att öka din prestationsförmåga i explosiva sporter. Läs om hur du kan använda det för att öka din styrka.
 categories:

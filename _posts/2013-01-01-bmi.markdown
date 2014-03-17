@@ -1,12 +1,12 @@
 ---
 layout: post
 published: true
-title: Räkna ut ditt BMI
+title: BMI
 logo: calculator.jpg
-excerpt: BMI är en förkortning för Body Mass Index. Räkna ut ditt här.
-title2: Räkna ut ditt BMI | fettfri.nu
+excerpt: BMI är en förkortning för Body Mass Index. Räkna ut ditt BMI här.
+title2: Räkna ut ditt BMI
 keywords: bmi,bodymassindex,body-mass-index,kalkylator
-description: Här kan du läsa om vad BMI är och räkna ut ditt värde.
+description: BMI är en förkortning för Body Mass Index och används som ett mått på övervikt. Räkna ut ditt BMI här.
 categories:
 - Kalkylator
 tags:

@@ -4,7 +4,7 @@ published: true
 title: "Öka i muskelmassa - Del 2"
 excerpt: Lär dig hur du tränar för att bygga muskler.
 logo: oka-i-muskelmassa-2.jpg
-title2: Öka i muskelmassa | fettfri.nu
+title2: Öka i muskelmassa, Del 2
 keywords: muskler,muskelbyggning,återhämtning,styrketräning,muskelmassa,öka,muskelökning
 description: Lär dig hur du tränar för att bygga muskler i denna andra del i guiden för att öka din muskelmassa.
 categories:
@@ -16,7 +16,7 @@ tags:
 comments: []
 ---
 ##Vad får muskler att växa?
-Som du kunde läsa i <a href="{{ site.baseurl }}{% post_url 2009-08-22-oka-i-muskelmassa-del-1 %}">del ett</a> av denna artikelserie behöver en muskel en bra miljö för att växa. En sådan skapar du genom att hålla en kost som tillåter din kropp att ta energi från ett överskott för att bygga upp sig. I fortsättningen förutsätter vi att du har tillfredsställt detta behov.
+Som du kunde läsa i <a href="{{ site.baseurl }}{% post_url 2012-01-03-oka-i-muskelmassa-del-1 %}">Öka i Muskelmassa, Del 1</a> behöver en muskel en bra miljö för att växa. En sådan skapar du genom att hålla en kost som tillåter din kropp att ta energi från ett överskott för att bygga upp sig. I fortsättningen förutsätter vi att du har tillfredsställt detta behov.
 
 Muskler har vi för att kunna röra oss, de framkallar rörelse i de leder de sträcker sig över. Rörelsen kommer ifrån den kraft som muskeln genererar och beroende på motståndet behöver muskeln generera olika mycket kraft. Om man sällan utsätter sig för rörelser som kräver större kraft så kommer inte kroppen att finna behov att lägga på sig större och starkare muskler. Enkelt sagt, för att du ska öka i muskelmassa måste du ge anledning för detta och det är här styrketräningen kommer in.
 
