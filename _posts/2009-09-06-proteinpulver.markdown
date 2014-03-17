@@ -4,6 +4,9 @@ published: true
 title: Proteinpulver
 excerpt: Proteintillskott, vilka typer finns och när ska de användas?
 logo: shaker.jpg
+title2: Proteinpulver | fettfri.nu
+keywords: proteinpulver,protein,tillskott,kosttillskott,styrketräning,träning,kost,muskelökning
+description: Proteintillskott, vilka typer finns och när ska de användas?
 categories:
 - Kosttillskott
 tags:

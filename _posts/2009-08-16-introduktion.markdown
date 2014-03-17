@@ -4,6 +4,9 @@ published: true
 title: Intro till viktminskning
 logo: viktminskning-intro.jpg
 excerpt: Lär dig grunderna för hur du sätter igång din fettförbränning.
+title2: Introduktion till viktminskning | fettfri.nu
+keywords: fettförbränning,viktminskning,energibehov
+description: Introduktion till viktminskning.
 categories:
 - Viktminskning
 tags:

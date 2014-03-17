@@ -1,5 +1,6 @@
 name: Fettfri.nu
 markdown: redcarpet
 pygments: true
+domain: http://www.fettfri.nu
 baseurl: /fettfri.nu
 permalink: /:categories/:title/

@@ -1,6 +1,8 @@
 ---
 layout: default
-title: Fettfri.nu - Tips och information om träning, kost och hälsa
+title2: Fettfri.nu - Tips och information om träning, kost och hälsa
+keywords: fettfri,fettförbränning,träning,kost,viktminskning,deff,tips
+description: Din källa till information om fettförbränning, kost, träning och ett sundare liv i största allmänhet.
 ---
 
 		<!-- Works Section
@@ -18,7 +20,7 @@ title: Fettfri.nu - Tips och information om träning, kost och hälsa
 				{% for post in site.posts %}
   	     		   <div class="columns portfolio-item">
   	                <div class="item-wrap">
-  	     				   <a href="{{ post.url }}">
+  	     				   <a href="{{ site.baseurl }}{{ post.url }}">
   	                      <img alt="" src="{{ site.baseurl }}/images/posts/{{ post.logo }}">
   	                      <div class="overlay"></div>
   	                      <div class="link-icon"><i class="fa fa-link"></i></div>
