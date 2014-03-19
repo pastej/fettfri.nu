@@ -4,7 +4,7 @@ published: true
 title: "Öka i muskelmassa - Del 2"
 excerpt: Lär dig hur du tränar för att bygga muskler.
 logo: oka-i-muskelmassa-2.jpg
-title2: Öka i muskelmassa, Del 2
+title2: Öka i muskelmassa, Del 2 | fettfri.nu
 keywords: muskler,muskelbyggning,återhämtning,styrketräning,muskelmassa,öka,muskelökning
 description: Lär dig hur du tränar för att bygga muskler i denna andra del i guiden för att öka din muskelmassa.
 categories:

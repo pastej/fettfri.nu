@@ -4,7 +4,7 @@ published: true
 title: Kaloriförbrukning
 excerpt: Räkna ut hur många kalorier du förbrukat under din träning.
 logo: calculator.jpg
-title2: Kaloriförbrukning vid träning
+title2: Kaloriförbrukning vid träning | fettfri.nu
 keywords: kalori,förbrukning,kaloriförbrukning,met,träning,energiförbrukning,kalkylator
 description: Räkna ut hur många kalorier du förbrukat under träningen.
 categories:

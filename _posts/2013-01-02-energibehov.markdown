@@ -4,7 +4,7 @@ published: true
 title: Energibehov
 excerpt: Se hur mycket energi du förbränner genom din träning.
 logo: calculator.jpg
-title2: Räkna ut ditt energibehov
+title2: Räkna ut ditt energibehov | fettfri.nu
 keywords: energibehov,harris&benedict,harris & benedict,kalkylator
 description: Räkna ut ditt energibehov med hjälp av Harris & Benedict principen.
 categories:

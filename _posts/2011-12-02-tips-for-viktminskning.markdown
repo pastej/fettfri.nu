@@ -4,7 +4,7 @@ published: true
 title: Tips för viktminskning
 excerpt: Ett aktivt hälsomedvetande är vägen att gå.
 logo: tips-for-viktminskning.jpg
-title2: Tips för att gå ner i vikt
+title2: Tips för att gå ner i vikt | fettfri.nu
 keywords: viktnedgång,fettförbränning,kost,motion,viktminskning
 description: Ett aktivt hälsomedvetande är vägen att gå om du vill gå ner i vikt. Här finner du några bra tips du kan lägga på minnet.
 categories:
