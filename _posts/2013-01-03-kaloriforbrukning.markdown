@@ -16,6 +16,7 @@ tags:
 - Träning
 - energiförbrukning
 comments: []
+redirect_from: "/kalkylator/kaloriforbrukning-vid-traning/"
 ---
 <p class="lead">
 Energiförbrukning vid olika typer av aktiviteter kan räknas ut med hjälp av enheten MET, metabolic equivalent. MET är den relativa skillnaden i förbrukning mellan olika aktiviteter. Tillsammans med vikt, ålder och tid kan man med hjälp av nedanstående ekvation räkna ut ett uppskattat värde av kaloriförbrukningen för en aktivitet.
@@ -80,7 +81,7 @@ Energiförbrukningen skiljer sig åt mellan individer och beror bland annat på 
 	</form>
 
 	Om du är intresserad av viktminskning eller effektiv styrketräning, läs vidare!
-	<p><a href="{{ site.baseurl }}{% post_url 2011-12-02-tips-for-viktminskning %}">Tips för viktminskning</a><br>
+	<p><a href="{{ site.baseurl }}{% post_url 2012-12-03-viktminskning %}">Viktminskning</a><br>
 	<a href="{{ site.baseurl }}{% post_url 2012-01-03-oka-i-muskelmassa-del-1 %}">Öka i muskelmassa</a></p>
 
 </div>

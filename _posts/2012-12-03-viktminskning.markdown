@@ -14,6 +14,8 @@ tags:
 - energibehov
 - Viktminskning
 comments: []
+redirect_from: "/viktminskning/introduktion/"
+
 ---
 ## Kroppens energiförbrukning
 Kroppen förbränner energi för att klara av de uppgifter den har. Även om du skulle ligga helt stilla en dag kommer kroppen fortfarande att förbruka energi, det kallas basalt energibehov (<a href="{{ site.baseurl }}{% post_url 2013-01-02-energibehov %}">Räkna ut ditt energibehov</a>). Se det som en TV som står i standby-läge, den kommer att förbruka ström men inte alls lika mycket som den skulle göra om den skulle vara påslagen. Det samma gäller för dig, är du igång och rör dig under en dag kommer du att förbruka mer energi än i standby-läge.

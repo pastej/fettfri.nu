@@ -16,6 +16,7 @@ tags:
 - Träning
 - Kosttillskott
 comments: []
+redirect_from: "/kosttillskott/proteinpulver/"
 ---
 <p class="lead">
 Ett proteinpulver är som namnet antyder protein i koncentrerad pulverform. Detta tillskott kan användas för att komplettera den vanliga kosten i en diet där ett högt intag av protein är viktigt, exempelvis vid muskelökningar och/eller för att förhindra muskelnedbrytning vid viktnedgång. Eftersom proteinpulver är relativt billigt och lätt att ha med sig är det mycket vanligt att inta tillskottet i samband med träning då kroppen behöver det som mest.

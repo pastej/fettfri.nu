@@ -3,4 +3,6 @@ markdown: redcarpet
 highlighter: pygments
 domain: http://www.fettfri.nu
 baseurl: ""
-permalink: /:categories/:title/
+permalink: /:title/
+gems:
+- jekyll-redirect-from

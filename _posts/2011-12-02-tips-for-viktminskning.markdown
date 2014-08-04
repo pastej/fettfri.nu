@@ -15,6 +15,8 @@ tags:
 - Kost
 - motion
 comments: []
+redirect_from: "/viktminskning/tips-for-viktminskning/"
+
 ---
 <p class="lead">
 Om du vill gå ner i vikt och förändra hur din kropp ser ut måste du göra förändringar i hur du lever. En viktminskning sker aldrig av sig själv och hur mycket man än hoppas så kommer inte en "mirakelkur" att vara någon bestående lösning. Ett aktivt hälsomedvetande är vägen att gå och tro mig, det kommer inte innebära ett tråkigt liv avskalat från allt det goda.

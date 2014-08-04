@@ -13,6 +13,7 @@ tags:
 - BMI
 - Kalkylator
 comments: []
+redirect_from: "/kalkylator/bmi/"
 ---
 <p class="lead">
 BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett mått som anger relationen mellan vikt och längd enligt ekvation som visas nedan. BMI används som ett mått på övervikt men ska endast ses som ett riktmärke och inget annat. Elitidrottare och kroppsbyggare kan i stort sett bortse från BMI då det överhuvudtaget inte tar hänsyn till den extra vikt som muskler innebär.

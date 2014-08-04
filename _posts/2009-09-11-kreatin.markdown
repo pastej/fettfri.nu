@@ -15,6 +15,8 @@ tags:
 - Träning
 - Kosttillskott
 comments: []
+redirect_from: "/kosttillskott/kreatin-for-okad-prestationsformaga/"
+
 ---
 <p class="lead">
 Kreatin är ett ämne som finns naturligt i dina muskler och som bidrar med explosiv energi. I normalfallet är inte dina muskler till fullo mättade med kreatin, nivån brukar ligga på cirka 80 %. Detta ger utrymme för att öka mättnadsgraden ytterligare för att  öka din prestationsförmåga i explosiv träning, exempelvis styrketräning.
