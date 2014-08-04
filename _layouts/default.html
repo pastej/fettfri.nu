@@ -46,15 +46,15 @@
 			  <meta content="{{ site.description }}" property="og:description">
 			{% endif %}
 			{% if page.url %}
-			  <meta content="{{ site.domain }}{{ page.url }}" property="og:url">
+			  <meta content="{{ site.ogurl }}{{ page.url }}" property="og:url">
 			{% endif %}
 			{% if page.date %}
 			  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
 			{% endif %}
 			{% if page.logo %}
-			  <meta content="{{ site.domain }}/images/posts/{{ page.logo }}" property="og:image">
+			  <meta content="{{ site.ogurl }}/images/posts/{{ page.logo }}" property="og:image">
 			{% else %}
-			  <meta content="{{ site.domain }}/images/posts/viktminskning-intro.jpg" property="og:image">
+			  <meta content="{{ site.ogurl }}/images/posts/viktminskning-intro.jpg" property="og:image">
 			{% endif %}
 			{% if page.categories %}
 			  {% for category in page.categories limit:1 %}

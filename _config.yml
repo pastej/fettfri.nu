@@ -3,6 +3,7 @@ name: Fettfri.nu
 markdown: redcarpet
 highlighter: pygments
 domain: http://www.fettfri.nu
+ogurl: http://fettfri.nu
 baseurl: ""
 permalink: /:title/
 gems:
