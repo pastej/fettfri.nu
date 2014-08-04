@@ -45,8 +45,10 @@
 			{% else %}
 			  <meta content="{{ site.description }}" property="og:description">
 			{% endif %}
-			{% if page.url %}
+			{% if page.date %}
 			  <meta content="{{ site.ogurl }}{{ page.url }}" property="og:url">
+			{% else %}
+				<meta content="{{ site.ogurl }}" property="og:url">
 			{% endif %}
 			{% if page.date %}
 			  <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
