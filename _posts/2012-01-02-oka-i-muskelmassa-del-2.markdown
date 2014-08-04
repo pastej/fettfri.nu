@@ -8,7 +8,7 @@ title2: Öka i muskelmassa | fettfri.nu
 keywords: muskler,muskelbyggning,återhämtning,styrketräning,muskelmassa,öka,muskelökning
 description: Lär dig hur du tränar för att bygga muskler i denna andra del i guiden för att öka din muskelmassa.
 categories:
-- Traning
+- Träning
 tags:
 - muskelökning
 - styrketräning

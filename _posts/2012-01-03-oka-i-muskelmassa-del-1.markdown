@@ -8,7 +8,7 @@ title2: Öka i muskelmassa  | fettfri.nu
 keywords: muskler,muskelbyggning,kost,protein,muskelmassa,öka,muskelökning,styrketräning
 description: Vad behöver du tänka på om du vill öka din muskelmassa? I denna guide får du svaren.
 categories:
-- Traning
+- Träning
 tags:
 - muskelökning
 - Kost
