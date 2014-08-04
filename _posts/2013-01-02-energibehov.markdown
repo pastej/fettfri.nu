@@ -2,11 +2,11 @@
 layout: post
 published: true
 title: Energibehov
-excerpt: Se hur mycket energi du förbränner genom din träning.
+excerpt: Räkna ut ditt energibehov.
 logo: calculator.jpg
-title2: Räkna ut ditt energibehov | fettfri.nu
+title2: Räkna ut energibehov
 keywords: energibehov,harris&benedict,harris & benedict,kalkylator
-description: Räkna ut ditt energibehov med hjälp av Harris & Benedict principen.
+description: Räkna ut ditt energibehov! Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går åt för detta kallas kroppens basala energibehov.
 categories:
 - Kalkylator
 tags:
@@ -23,7 +23,7 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 	<fieldset>
 	  <div class="half">
 		  <label for="kroppsvikt">Kroppsvikt (kg)</label>
-		  <input id="kroppsvikt" name="kroppsvikt" type="text" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/> 
+		  <input id="kroppsvikt" name="kroppsvikt" type="text" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/>
 	  </div>
 	  <div class="half pull-right">
 		  <label for="langd">Längd (cm)</label>
@@ -31,24 +31,24 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 	  </div>
 	  <div class="half">
 		  <label for="alder">Ålder</label>
-		  <input id="alder" name="alder" type="text" onfocus="if (this.value == 'Ange ålder...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange ålder...'; }" value="Ange ålder..." size="20"/> 
+		  <input id="alder" name="alder" type="text" onfocus="if (this.value == 'Ange ålder...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange ålder...'; }" value="Ange ålder..." size="20"/>
 	  </div>
-	  
+
  	  <div class="half pull-right">
 		  <label for="aktivitetsniva">Aktivitetsnivå:</label>
-		  <select id="aktivitetsniva" name="aktivitetsniva" style="height: 60px"> 
-		  	<option value="1.2">Lite eller ingen träning</option> 
-		  	<option value="1.375">Lätt träning (1-3 ggr/vecka)</option> 
-		  	<option value="1.55">Medelhård träning (3-5 ggr/vecka)</option> 
-		  	<option value="1.725">Hård träning (6-7 ggr/vecka)</option> 
-		  	<option value="1.9"> Mycket hård träning (2 ggr/dag)</option> 
+		  <select id="aktivitetsniva" name="aktivitetsniva" style="height: 60px">
+		  	<option value="1.2">Lite eller ingen träning</option>
+		  	<option value="1.375">Lätt träning (1-3 ggr/vecka)</option>
+		  	<option value="1.55">Medelhård träning (3-5 ggr/vecka)</option>
+		  	<option value="1.725">Hård träning (6-7 ggr/vecka)</option>
+		  	<option value="1.9"> Mycket hård träning (2 ggr/dag)</option>
 		  </select>
 	  </div>
  	  <div class="half">
 		  <label for="kon">Kön:</label>
-		  <select id="kon" name="kon" style="height: 60px" value="kvinna"> 
-		  	<option value="kvinna">Kvinna</option> 
-		  	<option value="man">Man</option> 
+		  <select id="kon" name="kon" style="height: 60px" value="kvinna">
+		  	<option value="kvinna">Kvinna</option>
+		  	<option value="man">Man</option>
 		  </select>
 	  </div>
 	  <div class="half pull-right">
@@ -61,6 +61,8 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 	  </div>
 	  </fieldset>
 	</form>
+
+	När du vet ditt energibehov kan du ränkna ut hur mycket din träning norpar! <p><a href="{{ site.baseurl }}{% post_url 2013-01-03-kaloriforbrukning-vid-traning %}">Räkna ut kaloriförbrukning vid träning.</a></p>
 </div>
 
 <script type="text/javascript">
@@ -69,7 +71,7 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 		var vikt = document.getElementById("kroppsvikt").value;
 		var alder = document.getElementById("alder").value;
 		var langd = document.getElementById("langd").value;
-		var kon = document.getElementById("kon").value 
+		var kon = document.getElementById("kon").value
 		var result = 0;
 
 		if (kon == "kvinna") {

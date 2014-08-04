@@ -3,10 +3,10 @@ layout: post
 published: true
 title: BMI
 logo: calculator.jpg
-excerpt: BMI är en förkortning för Body Mass Index. Räkna ut ditt BMI här.
-title2: Räkna ut ditt BMI | fettfri.nu
+excerpt: Räkna ut ditt BMI.
+title2: Räkna ut BMI
 keywords: bmi,bodymassindex,body-mass-index,kalkylator
-description: BMI är en förkortning för Body Mass Index och används som ett mått på övervikt. Räkna ut ditt BMI här.
+description: Räkna ut ditt BMI! BMI är en förkortning för Body Mass Index. Detta kroppsmasseindex är ett mått som anger relationen mellan vikt och längd enligt en ekvation.
 categories:
 - Kalkylator
 tags:
@@ -31,7 +31,7 @@ BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett m
 	<fieldset>
 	  <div class="half">
 		  <label for="weight">Kroppsvikt (kg)</label>
-		  <input id="weight" name="weight" type="text" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/> 
+		  <input id="weight" name="weight" type="text" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/>
 	  </div>
 	  <div class="half pull-right">
 		  <label for="length">Längd (cm)</label>
@@ -51,18 +51,15 @@ BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett m
 
 
 <script type="text/javascript">
-  function calculate() { 	
-	  var weight = document.getElementById("weight").value; 	
+  function calculate() {
+	  var weight = document.getElementById("weight").value;
 	  var length = document.getElementById("length").value;
-	  
-	  	var result = weight / (length * length) * 10000; 	
-	  	if (isNaN(result)) { 		
-			document.getElementById("BMI").value = 'Fel'; 	
-	  	} else { 
-		   	document.getElementById("BMI").value = Math.round(result*10)/10; 	
+
+	  	var result = weight / (length * length) * 10000;
+	  	if (isNaN(result)) {
+			document.getElementById("BMI").value = 'Fel';
+	  	} else {
+		   	document.getElementById("BMI").value = Math.round(result*10)/10;
 	  	}
 	}
 </script>
-
-
-

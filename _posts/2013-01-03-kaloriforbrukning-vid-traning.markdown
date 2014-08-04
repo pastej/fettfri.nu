@@ -2,11 +2,11 @@
 layout: post
 published: true
 title: Kaloriförbrukning
-excerpt: Räkna ut hur många kalorier du förbrukat under din träning.
+excerpt: Räkna ut din kaloriförbrukning.
 logo: calculator.jpg
-title2: Kaloriförbrukning vid träning | fettfri.nu
+title2: Kaloriförbrukning
 keywords: kalori,förbrukning,kaloriförbrukning,met,träning,energiförbrukning,kalkylator
-description: Räkna ut hur många kalorier du förbrukat under träningen.
+description: Räkna ut hur många kalorier du förbrukat under träningen. Energiförbrukning vid olika typer av aktiviteter kan räknas ut med hjälp av enheten MET, metabolic equivalent.
 categories:
 - Kalkylator
 tags:
@@ -31,7 +31,7 @@ Energiförbrukningen skiljer sig åt mellan individer och beror bland annat på 
 	<fieldset>
 	  <div class="half">
 	      <label for="weight">Vikt (kg)</label>
-		  <input id="weight" name="weight" type="text" onchange="calculate()" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/> 
+		  <input id="weight" name="weight" type="text" onchange="calculate()" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/>
 	  </div>
 	  <div class="half pull-right">
 	      <label for="time">Tid (min)</label>
@@ -78,16 +78,21 @@ Energiförbrukningen skiljer sig åt mellan individer och beror bland annat på 
 		</div>
 	 </fieldset>
 	</form>
+
+	Om du är intresserad av viktminskning eller effektiv styrketräning, läs vidare!
+	<p><a href="{{ site.baseurl }}{% post_url 2011-12-02-tips-for-viktminskning %}">Tips för viktminskning</a><br>
+	<a href="{{ site.baseurl }}{% post_url 2012-01-03-oka-i-muskelmassa-del-1 %}">Öka i muskelmassa</a></p>
+
 </div>
 
 <script type="text/javascript">
 
 function calculate() {
-	
+
 	var met = document.getElementById("activity").value;
 	var weight = document.getElementById("weight").value;
 	var mins = document.getElementById("time").value;
-	
+
 	if ( (met != 0) && (weight > 0) && (mins > 0)) {
 		var kcal = weight * (mins/60) * met;
 		kcal = Math.round(kcal);
