@@ -3,7 +3,7 @@ name: Fettfri.nu
 kramdown:
   input: GFM
   hard_wrap: false
-highlighter: pygments
+highlighter: rouge
 domain: http://www.fettfri.nu
 ogurl: http://fettfri.nu
 baseurl: ""
