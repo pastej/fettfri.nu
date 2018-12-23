@@ -4,7 +4,7 @@ published: true
 title: Energibehov
 excerpt: Se hur mycket energi du förbränner genom din träning.
 logo: calculator.jpg
-title2: Räkna ut ditt energibehov | fettfri.nu
+title2: Räkna ut energibehov
 keywords: energibehov,harris&benedict,harris & benedict,kalkylator
 description: Räkna ut ditt energibehov med hjälp av Harris & Benedict principen.
 categories:
@@ -18,12 +18,15 @@ tags:
 Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går åt för detta kallas kroppens basala energibehov. Nedan kan du räkna ut ditt ungefärliga dagsbehov av energi med hjälp av <a title="Harris &amp; Benedict principen" href="http://en.wikipedia.org/wiki/Harris-Benedict_equation">Harris &amp; Benedict</a> principen. Denna går ut på att man räknar ut sin <a title="Basal metabolic rate" href="http://en.wikipedia.org/wiki/Basal_metabolic_rate">BMR</a> (Basal metabolic rate) och sedan multiplicerar denna med en aktivitetsnivå.
 </p>
 
+### Räkna ut ditt energibehov
+
 <div id="contact-form">
+<hr/>
 <form>
 	<fieldset>
 	  <div class="half">
 		  <label for="kroppsvikt">Kroppsvikt (kg)</label>
-		  <input id="kroppsvikt" name="kroppsvikt" type="text" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/> 
+		  <input id="kroppsvikt" name="kroppsvikt" type="text" onfocus="if (this.value == 'Ange vikt...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange vikt...'; }" value="Ange vikt..." size="20"/>
 	  </div>
 	  <div class="half pull-right">
 		  <label for="langd">Längd (cm)</label>
@@ -31,24 +34,24 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 	  </div>
 	  <div class="half">
 		  <label for="alder">Ålder</label>
-		  <input id="alder" name="alder" type="text" onfocus="if (this.value == 'Ange ålder...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange ålder...'; }" value="Ange ålder..." size="20"/> 
+		  <input id="alder" name="alder" type="text" onfocus="if (this.value == 'Ange ålder...') { this.value = ''; }" onblur="if(this.value == '') { this.value = 'Ange ålder...'; }" value="Ange ålder..." size="20"/>
 	  </div>
-	  
+
  	  <div class="half pull-right">
 		  <label for="aktivitetsniva">Aktivitetsnivå:</label>
-		  <select id="aktivitetsniva" name="aktivitetsniva" style="height: 60px"> 
-		  	<option value="1.2">Lite eller ingen träning</option> 
-		  	<option value="1.375">Lätt träning (1-3 ggr/vecka)</option> 
-		  	<option value="1.55">Medelhård träning (3-5 ggr/vecka)</option> 
-		  	<option value="1.725">Hård träning (6-7 ggr/vecka)</option> 
-		  	<option value="1.9"> Mycket hård träning (2 ggr/dag)</option> 
+		  <select id="aktivitetsniva" name="aktivitetsniva" style="height: 60px">
+		  	<option value="1.2">Lite eller ingen träning</option>
+		  	<option value="1.375">Lätt träning (1-3 ggr/vecka)</option>
+		  	<option value="1.55">Medelhård träning (3-5 ggr/vecka)</option>
+		  	<option value="1.725">Hård träning (6-7 ggr/vecka)</option>
+		  	<option value="1.9"> Mycket hård träning (2 ggr/dag)</option>
 		  </select>
 	  </div>
  	  <div class="half">
 		  <label for="kon">Kön:</label>
-		  <select id="kon" name="kon" style="height: 60px" value="kvinna"> 
-		  	<option value="kvinna">Kvinna</option> 
-		  	<option value="man">Man</option> 
+		  <select id="kon" name="kon" style="height: 60px" value="kvinna">
+		  	<option value="kvinna">Kvinna</option>
+		  	<option value="man">Man</option>
 		  </select>
 	  </div>
 	  <div class="half pull-right">
@@ -61,6 +64,9 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 	  </div>
 	  </fieldset>
 	</form>
+	<hr/>
+	<p>När du vet ditt energibehov kan du räkna ut din <a href="{{ site.baseurl }}{% post_url 2013-01-03-kaloriforbrukning %}">kaloriförbrukning vid träning</a>!
+	Och fördjupa dina kunskaper i <a href="{{ site.baseurl }}{% post_url 2012-12-03-viktminskning %}">Viktminskning</a>!</p>
 </div>
 
 <script type="text/javascript">
@@ -69,7 +75,7 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 		var vikt = document.getElementById("kroppsvikt").value;
 		var alder = document.getElementById("alder").value;
 		var langd = document.getElementById("langd").value;
-		var kon = document.getElementById("kon").value 
+		var kon = document.getElementById("kon").value
 		var result = 0;
 
 		if (kon == "kvinna") {

@@ -4,7 +4,7 @@ published: true
 title: "Öka i muskelmassa - Del 1"
 excerpt: En bra kost är A och O för att bygga muskler.
 logo: oka-i-muskelmassa-1.jpg
-title2: Öka i muskelmassa, Del 1  | fettfri.nu
+title2: Öka i muskelmassa, Del 1
 keywords: muskler,muskelbyggning,kost,protein,muskelmassa,öka,muskelökning,styrketräning
 description: Vad behöver du tänka på om du vill öka din muskelmassa? I denna guide får du svaren.
 categories:
@@ -15,17 +15,17 @@ tags:
 - styrketräning
 comments: []
 ---
-##Starta muskelfabriken
+## Starta muskelfabriken
 
 Om målet med din träning är att öka maximalt i muskelmassa är det viktigt att känna till hur du kan skapa de absolut bästa förutsättningarna för att få jobbet gjort. Ju mer du tränar desto mer kommer du att lära dig om hur just din kropp svarar på olika typer av träningsupplägg, vi är alla individer och det som funkar för en person behöver inte nödvändigtvis fungera för en annan. Vissa delar är dock grundläggande när det kommer till att öka i muskelmassa och det är dessa som kommer att beröras i denna serie artiklar.
 
-##Kost som kör igång maskineriet
+## Kost som kör igång maskineriet
 
 För att du ska kunna öka i vikt måste kroppens energibehov tillfredsställas med råge! Du måste alltså få i dig mer energi än du gör av med så att kroppen har energi att lägga på tillväxt. Detta behöver inte nödvändigtvis innebära att du måste börja räkna kalorier, däremot är en ökad medvetenhet om vad som slinker ner om dagarna något som underlättar. Om du tränar ett tag och märker att du inte ökar i vikt (varken på vågen eller i gymet) kan en extra måltid per dag på 500-1000 kcal göra underverk!
 
 De tre näringsämnen som bygger upp din kost är protein, kolhydrater och fett. Energin från de tre skiljer sig något åt där protein och kolhydrater ger dig ca 4 kcal/gram medan fett är mer än dubbelt så energitätt och ger dig ca 9 kcal/gram. Ett snabbt sätt att öka ditt energiintag är alltså att öka fettet i din kost. Det är dock viktigt att du tittar närmare på att du får i dig tillräckligt av alla tre näringsämnen då de var och en  spelar en viktig roll för din växande muskelmassa.
 
-###Protein - Byggstenarna
+### Protein - Byggstenarna
 
 Proteinet brukar vara det som mest förknippas med muskelökningar och det är inte utan grund, det är byggstenen i dina muskler. Protein är uppbyggt av långa kedjor av aminosyror och är en av huvudbeståndsdelarna i allt levande. I kroppen pågår konstant dels nybyggande av muskelprotein (proteinsyntesen) och dels nedbrytning. Genom att tillföra kroppen protein gynnas proteinsyntesen och vi vill eftersträva att denna process är effektivare än vad nedbrytningen är för att öka i muskelmassa.
 
