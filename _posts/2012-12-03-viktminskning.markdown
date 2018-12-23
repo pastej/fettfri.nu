@@ -4,7 +4,7 @@ published: true
 title: Viktminskning
 logo: viktminskning-intro.jpg
 excerpt: Lär dig grunderna för hur du sätter igång din fettförbränning.
-title2: Introduktion till viktminskning | fettfri.nu
+title2: Introduktion till viktminskning
 keywords: fettförbränning,viktminskning,energibehov
 description: Kroppen förbränner energi för att klara av de uppgifter den har. Lär dig om hur du kan få fart på din fettförbränning.
 categories:
@@ -36,15 +36,15 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
 
-###Vikten av rätt kost
+### Vikten av rätt kost
 Rätt kost är tillsammans med kaloriunderskott nyckeln till framgång när det gäller viktminskning. I din diet är det viktigt att du får i dig tillräckligt med protein, 1,6-2 gram per kilo kroppsvikt kan vara ett riktmärke. Detta är viktigt eftersom proteinet hjälper dig att hålla igång din ämnesomsättning och dessutom håller dig mätt längre, vilket kan vara nog så viktigt. Dessutom minskar proteinet mängden muskler du förlorar under viktnedgången, vilket är bra ur många aspekter.
 
 Förutom protein så är även fettet viktigt. Detta behövs för att kroppen ska kunna ta upp vitaminer samt för att hormonnivåerna inte ska påverkas negativt. Som ett riktmärke kan 0,5-1 gram per kilo kroppsvikt användas. Kvalité på fett är så klart relevant, nötter, olivolja, avokado och linfröolja är exempel på bra fettkällor.
 
-###Träna för viktminskning
+### Träna för viktminskning
 Träningens hälsoeffekter är många och självklart har du allt att vinna på att röra på dig lite extra i veckorna. Ökad kondition ger en ökad ämnesomsättning och mer muskelmassa gör att du förbränner mer energi. Ligger du dock på ett kaloriunderskott och håller en bra kost borde viktminskningen vara igång vare sig du rör på dig mer än vanligt eller ej. Träning ger dig förutom hälsoeffekterna möjligheten att hålla igen på maten (energin in) lite mindre eftersom du förbrukar mer energi. Dessutom kan du genom styrketräning under din viktminskning minska muskelförlusten ytterligare eller till och med bygga på dig lite muskler om du inte tränat särskilt mycket med vikter innan. Du har som sagt allt att vinna på att röra dig!
 
-###Strategi för viktminskning
+### Strategi för viktminskning
 En sammanfattning av det som står ovan ger dig en strategi för att lyckas.
 
 <ol>

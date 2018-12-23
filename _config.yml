@@ -1,10 +1,12 @@
 title: Fettfri.nu
 name: Fettfri.nu
-markdown: redcarpet
+kramdown:
+  input: GFM
+  hard_wrap: false
 highlighter: pygments
 domain: http://www.fettfri.nu
 ogurl: http://fettfri.nu
 baseurl: ""
 permalink: /:title/
-gems:
+plugins:
 - jekyll-redirect-from

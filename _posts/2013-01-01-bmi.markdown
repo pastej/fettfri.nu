@@ -21,13 +21,15 @@ BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett m
 
 ![BMI Formel]({{ site.url}}/images/posts/bmi/formula.gif)
 
-#### WHO har definierat följande gränsvärden för BMI
+##### WHO har definierat följande gränsvärden för BMI
 *  Undervikt - mindre än 18,5
 *  Normalvikt - 18,50–24,99
 *  Övervikt - 25,00–29,99
 *  Fetma -  Mer än 30,00
 
+### Räkna ut ditt BMI
 <div id="contact-form">
+<hr/>
 <form>
 	<fieldset>
 	  <div class="half">
@@ -48,6 +50,7 @@ BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett m
 	  </div>
 	  </fieldset>
 	</form>
+	<hr/>
 </div>
 
 
@@ -56,11 +59,19 @@ BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett m
 	  var weight = document.getElementById("weight").value;
 	  var length = document.getElementById("length").value;
 
+<<<<<<< HEAD
 	  	var result = weight / (length * length) * 10000;
 	  	if (isNaN(result)) {
 			document.getElementById("BMI").value = 'Fel';
 	  	} else {
 		   	document.getElementById("BMI").value = Math.round(result*10)/10;
+=======
+	  	var result = weight / (length * length) * 10000; 	
+	  	if (isNaN(result)) { 		
+			document.getElementById("BMI").value = 'Fel'; 	
+	  	} else {
+		   	document.getElementById("BMI").value = Math.round(result*10)/10; 	
+>>>>>>> master
 	  	}
 	}
 </script>

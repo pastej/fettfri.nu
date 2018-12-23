@@ -4,7 +4,7 @@ published: true
 title: Kaloriförbrukning
 excerpt: Räkna ut din kaloriförbrukning.
 logo: calculator.jpg
-title2: Kaloriförbrukning
+title2: Räkna ut kaloriförbrukning
 keywords: kalori,förbrukning,kaloriförbrukning,met,träning,energiförbrukning,kalkylator
 description: Räkna ut hur många kalorier du förbrukat under träningen. Energiförbrukning vid olika typer av aktiviteter kan räknas ut med hjälp av enheten MET, metabolic equivalent.
 categories:
@@ -26,6 +26,8 @@ Energiförbrukning vid olika typer av aktiviteter kan räknas ut med hjälp av e
 
 Energiförbrukningen skiljer sig åt mellan individer och beror bland annat på kön, ålder,  muskelmassa, vikt och träningsintensitet. I uträkningen nedan räknar du ut hur många <strong>extra kalorier</strong> som förbrukas genom din ökade aktivitet.
 
+### Räkna ut din kaloriförbrukning
+<hr />
 <div id="contact-form">
 
 <form>
@@ -79,7 +81,7 @@ Energiförbrukningen skiljer sig åt mellan individer och beror bland annat på 
 		</div>
 	 </fieldset>
 	</form>
-
+<hr />
 	Om du är intresserad av viktminskning eller effektiv styrketräning, läs vidare!
 	<p><a href="{{ site.baseurl }}{% post_url 2012-12-03-viktminskning %}">Viktminskning</a><br>
 	<a href="{{ site.baseurl }}{% post_url 2012-01-03-oka-i-muskelmassa-del-1 %}">Öka i muskelmassa</a></p>

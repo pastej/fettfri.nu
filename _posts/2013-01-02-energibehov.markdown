@@ -23,7 +23,10 @@ Kroppen förbränner kalorier genom att bara fungera. Den mängd energi som går
 Räkna ut ditt ungefärliga dagsbehov av energi nedan med hjälp av <a title="Harris &amp; Benedict principen" href="http://en.wikipedia.org/wiki/Harris-Benedict_equation">Harris &amp; Benedict</a> principen. Denna går ut på att man räknar ut sin <a title="Basal metabolic rate" href="http://en.wikipedia.org/wiki/Basal_metabolic_rate">BMR</a> (Basal metabolic rate) och sedan multiplicerar denna med en aktivitetsnivå.
 </p>
 
+### Räkna ut ditt energibehov
+
 <div id="contact-form">
+<hr/>
 <form>
 	<fieldset>
 	  <div class="half">
@@ -66,8 +69,8 @@ Räkna ut ditt ungefärliga dagsbehov av energi nedan med hjälp av <a title="Ha
 	  </div>
 	  </fieldset>
 	</form>
-
-	När du vet ditt energibehov kan du räkna ut din <a href="{{ site.baseurl }}{% post_url 2013-01-03-kaloriforbrukning %}">kaloriförbrukning vid träning</a>!
+	<hr/>
+	<p>När du vet ditt energibehov kan du räkna ut din <a href="{{ site.baseurl }}{% post_url 2013-01-03-kaloriforbrukning %}">kaloriförbrukning vid träning</a>!
 	Och fördjupa dina kunskaper i <a href="{{ site.baseurl }}{% post_url 2012-12-03-viktminskning %}">Viktminskning</a>!</p>
 </div>
 

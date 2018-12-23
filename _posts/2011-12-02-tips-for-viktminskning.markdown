@@ -4,7 +4,7 @@ published: true
 title: Tips för viktminskning
 excerpt: Ett aktivt hälsomedvetande är vägen att gå.
 logo: tips-for-viktminskning.jpg
-title2: Tips för att gå ner i vikt | fettfri.nu
+title2: Tips för att gå ner i vikt
 keywords: viktnedgång,fettförbränning,kost,motion,viktminskning
 description: Ett aktivt hälsomedvetande är vägen att gå om du vill gå ner i vikt. Här finner du några bra tips du kan lägga på minnet.
 categories:
@@ -46,13 +46,13 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </div>
 
 Laga din egen mat. Det är både roligt och lärorikt, dessutom kan du själv kontrollera hur hälsosam kost du får i dig. Se till att grönsaker blir en del i varje måltid! Ät gott och med moderation, det ska inte vara en pina att gå ner i vikt, det ger helt fel signaler till dig själv.
-##Motion till vardags
+## Motion till vardags
 Att ta sig från A till B i vardagen kan innebära en hel del gratismotion. Ställ bilen hemma och ta cykeln eller promenera. Kliv av en station tidigare med bussen och gå sista biten. Ta trapporna istället för hissen. Små saker som gör stora förändringar.
 
-##Ta tag i träningen
+## Ta tag i träningen
 Köp ett par bra promenadskor och ta en promenad under dagen, du blir både piggare och får tid att rensa tankarna samtidigt som du bränner kalorier.
 
 Hitta en träningsform som du tycker om och kör på den, det ska vara roligt att träna. Har du kanske kompisar som också har samma mål som du? Gå ihop och motivera varandra, gör det tillsammans!
 
-##Ha tålamod
+## Ha tålamod
 Rom byggdes inte på en dag. Viktminskning tar tid om den ska vara hälsosam, se det som en resa mot något bättre. Stirra dig inte blind på vågen, den kan ofta vara missvisande. Gör små förändringar i din vardag hela tiden och märk hur du utvecklas och mår bättre!
