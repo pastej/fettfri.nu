@@ -509,7 +509,7 @@ ul#nav ul li a {
 /* ------------------------------------------------------------------ */
 
 #works {
-   background: #f5f5f5 url(../images/works-bg.jpg);
+   background: #f5f5f5;
    padding-top: 48px;
    padding-bottom: 36px;
    border-top: 1px solid #E3E8E8;
@@ -563,7 +563,6 @@ ul#nav ul li a {
 	transition: opacity 0.3s ease-in-out;
 
    border-radius: 3px 3px 0 0;
-   background: url(../images/overlay.png) repeat;
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;

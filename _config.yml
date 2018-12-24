@@ -4,9 +4,11 @@ kramdown:
   input: GFM
   hard_wrap: false
 highlighter: rouge
-domain: http://www.fettfri.nu
-ogurl: http://fettfri.nu
+domain: https://fettfri.nu
+ogurl: https://fettfri.nu
 baseurl: ""
 permalink: /:title/
+url: https://fettfri.nu
 plugins:
-- jekyll-redirect-from
+  - jekyll-redirect-from
+  - jekyll-sitemap

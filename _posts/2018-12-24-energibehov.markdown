@@ -70,7 +70,7 @@ Räkna ut ditt ungefärliga dagsbehov av energi nedan med hjälp av <a title="Ha
 	  </fieldset>
 	</form>
 	<hr/>
-	<p>När du vet ditt energibehov kan du räkna ut din <a href="{{ site.baseurl }}{% post_url 2013-01-03-kaloriforbrukning %}">kaloriförbrukning vid träning</a>!
+	<p>När du vet ditt energibehov kan du räkna ut din <a href="{{ site.baseurl }}{% post_url 2018-12-23-kaloriforbrukning %}">kaloriförbrukning vid träning</a>!
 	Och fördjupa dina kunskaper i <a href="{{ site.baseurl }}{% post_url 2012-12-03-viktminskning %}">Viktminskning</a>!</p>
 </div>
 
