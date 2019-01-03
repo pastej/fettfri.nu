@@ -59,19 +59,11 @@ BMI är en förkortning för Body Mass Index. Detta "kroppsmasseindex" är ett m
 	  var weight = document.getElementById("weight").value;
 	  var length = document.getElementById("length").value;
 
-<<<<<<< HEAD
-	  	var result = weight / (length * length) * 10000;
-	  	if (isNaN(result)) {
-			document.getElementById("BMI").value = 'Fel';
-	  	} else {
-		   	document.getElementById("BMI").value = Math.round(result*10)/10;
-=======
 	  	var result = weight / (length * length) * 10000; 	
 	  	if (isNaN(result)) { 		
 			document.getElementById("BMI").value = 'Fel'; 	
 	  	} else {
 		   	document.getElementById("BMI").value = Math.round(result*10)/10; 	
->>>>>>> master
 	  	}
 	}
 </script>
